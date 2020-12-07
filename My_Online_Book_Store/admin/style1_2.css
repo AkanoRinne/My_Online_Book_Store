@@ -1,0 +1,37 @@
+body{
+	background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(bg.jpg);
+	background-size: cover;
+}
+
+.topic h2{
+	text-align: center;
+	font-size: 50px;
+}
+
+.Intro{
+	max-width: 500px;
+	max-height: 400px;
+	float: none;
+	margin: 170px auto;
+	padding: 30px;
+	background: #fff;
+	background: rgba(211,211,211,0.5);
+}
+
+.main-text h2{
+	text-align: center;
+}
+
+.sub-text{
+	font-size: 16;
+}
+
+
+.wel_user {
+	margin-left: 145px;
+}
+
+.btn {	
+	margin-left: 15px;
+	margin-right: 5px;
+}
