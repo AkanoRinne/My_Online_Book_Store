@@ -1,0 +1,68 @@
+body{
+	background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(bg.jpg);
+	background-size: cover;
+}
+
+.main-text_2 h2{
+	text-align: center;
+	color: black;
+	max-width: 480px;
+	float: none;
+	margin: 20px auto;
+	padding: 10px;
+	background: #fff;
+	background: rgba(211,211,211,0.5);
+}
+		
+.main-text_2 h3 {
+	text-align: center;
+	color: black;
+	margin: 20px auto;
+	background-color: #FFF;
+	background: rgba(211,211,211,0.6);
+	max-width: 190px;
+}
+
+.check {
+	text-align: center;
+	font-size: 14px;
+	padding: 8px 12px;
+	cursor: pointer; 
+}
+		
+.btn {
+	position: right;
+	float: right;
+	margin-left: 10px;
+}
+
+.table-box {
+	background: url(mainbg.jpg);
+	width: 420px;
+	height: 285px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	box-shadow: 0 10px 100px rgba(0,0,0,0.5);
+	margin: 5px auto;
+	color: black;
+	font-size: 18px;
+}
+
+th {
+	background-color: rgba(0,0,255,0.7);
+}
+
+table,th,td{
+	border:1px solid;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+.col{
+	position: sticky;
+	top:0;
+}
+
+.action_list {
+	margin-top: 50px;
+}

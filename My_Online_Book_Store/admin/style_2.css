@@ -1,0 +1,72 @@
+body{
+	background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(bg.jpg);
+	background-size: cover;
+}
+
+.topic h2{
+	max-width: 600px;
+	float: none;
+	margin: 50px auto;
+	padding:14px;
+	background: #fff;
+	background: rgba(211,211,211,0.5);
+	color: Black;
+	text-align: center;
+	font-size: 50px;
+}
+
+.login-box{
+	max-width: 700px;
+	float: none;
+	margin: 50px auto;
+}
+
+.login-left{
+	background: rgba(211,211,211,0.5);
+	background-color: black;
+	padding: 30px;
+	color: #fff;
+}
+
+.login-right{
+	background: #fff;
+	padding: 30px;
+}
+
+.form-control{
+	background-color: transparent !important;
+}
+
+.Intro{
+	max-width: 700px;
+	float: none;
+	margin: 160px auto;
+	padding: 30px;
+	background: #fff;
+	background: rgba(211,211,211,0.5);
+}
+
+.main-text h2{
+	text-align: center;
+}
+
+.sub-text{
+	font-size: 16;
+}
+
+.sub-text p{
+	padding-top: 10px;
+}
+
+.check {
+	text-align: center;
+	margin-left:60%;
+	background: rgba(0,0,0,0.2);
+	max-width: 120px;
+	display: inline-block;
+	font-size: 14px;
+	color: #FFF;
+	padding: 8px 12px;
+	cursor: pointer;  
+}
+		
